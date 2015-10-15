@@ -6,3 +6,4 @@ This is a first change
 Foo
 
 
+Baz
